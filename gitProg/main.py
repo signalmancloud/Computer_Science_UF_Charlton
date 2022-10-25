@@ -9,8 +9,8 @@ This is a program that adds two number together
 """
 
 
-def add(a,b):
+def add(a, b):
     return a + b
 
-if __name__ == "main":
-    print(add(10,1))
+if __name__ == "__main__":
+    print(add(10, 1))
